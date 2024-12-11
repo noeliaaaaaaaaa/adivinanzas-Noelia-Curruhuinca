@@ -8,8 +8,8 @@ const Header = () => {
       <nav>
         <ul>
           <li><a href="/">Inicio</a></li>
-          <li><a href="/about">Cristian Alarcón</a></li>
-          <li><a href="/contact">Programación estática y laboratorio Web</a></li>
+          <li><a href="/about">Cristian aprobame porfi</a></li>
+          <li><a href="/contact">Noelia Curruhuinca</a></li>
         </ul>
       </nav>
     </header>
